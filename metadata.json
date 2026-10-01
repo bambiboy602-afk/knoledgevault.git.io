@@ -1,0 +1,7 @@
+{
+  "name": "CognitiveVault - Google Drive & Docs Knowledge System",
+  "description": "An intelligent knowledge management system integrated with Google Drive and Google Docs to automatically log, categorize, structure, and expand verified research.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
